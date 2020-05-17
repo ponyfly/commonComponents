@@ -9,4 +9,3 @@ test/e2e/reports
 *.log
 metastore_db
 yarn-error.log
-/yarn.lock
