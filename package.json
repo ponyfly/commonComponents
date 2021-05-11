@@ -20,7 +20,7 @@
     "core-js": "2",
     "cos-js-sdk-v5": "^0.5.26",
     "element-ui": "2.4.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "vue": "^2.5.2"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
     "core-js": "2",
     "cos-js-sdk-v5": "^0.5.26",
     "element-ui": "2.4.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "vue": "^2.6.11"
   }
 }
